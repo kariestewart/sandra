@@ -1,0 +1,251 @@
+h1{
+	background-color: #FFFFE0;
+				}
+}
+
+p.serif {
+	font-family: Calibri, sans, serif;
+}
+	
+body  {
+	padding: 20px; padding-top: 2px;
+	
+	background-color: #FFFFE0;
+         background-image: 
+        background-position: absolute;
+}
+	
+nav {
+	text-transform: uppercase;
+	font-size: 40px;
+	text-align: center;
+	padding-bottom: 10px;
+	word-spacing: 50px;
+}
+
+nav a{
+    text-decoration: none;
+	word-spacing: 5px;
+	text-transform: uppercase;
+}
+<style>
+
+        .container {
+            align-items: center;
+			margin-bottom: 100px;
+        }
+
+        .text {
+            flex: 1;
+			color: #876246;
+           padding-top: 15px;
+        }
+
+        .textmini1 {
+            flex: 1;
+			font-size: 20px;
+			color: #788757;
+            padding-bottom: 15px;
+		}
+		.textmini2 {
+            flex: 1;
+			font-size: 20px;
+			color: #788757;
+            padding-bottom: 15px;
+			
+			}
+		.textmini3 {
+            flex: 1;
+			font-size: 20px;
+			color: #788757;
+            padding-bottom: 15px;
+        }
+		.textmini4 {
+            flex: 1;
+			font-size: 20px;
+			color: #788757;
+            padding-bottom: 15px;
+        }
+        .eye {
+			padding: 30px;
+			float: left; 
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
+		.copperhead {
+			padding: 30px;
+			float: right; 
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
+		.text1 {
+            flex: 1;
+			color: #876246;
+			text-align: right;
+            padding: 20px; /* Adjust the padding as needed */
+        }
+		
+		.skin {
+			padding: 30px;
+			float: left; 
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+		}
+		.text2 {
+			padding: 20px;
+			float: left; 
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
+		 .hognose {
+			padding: 30px;
+			float: left; 
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
+		.boa {
+			padding: 30px;
+			float: right; 
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
+		 .king {
+			padding: 30px;
+			float: left; 
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
+		 .garter {
+			padding: 30px;
+			float: right; 
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
+		 .corn {
+			padding: 30px;
+			float: left; 
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
+		.ball {
+			padding: 30px;
+			float: right;	
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
+		 .burmese {
+			padding: 30px;
+			float: left; 
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
+		 .red {
+			padding: 30px;
+			float: right; 
+			background-color; #FFFFEB;
+			border-radius: 650px;
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
+		 .green {
+			padding: 30px;
+			float: left; 
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
+		 .about2 {
+			padding: 30px;
+			float: left; 
+			border-radius: 0px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
+		 .derp {
+			padding: 30px;
+			float: right; 
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
+		.viper {
+			padding: 30px;
+			float: left; 
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
+		 .cobra {
+			padding: 30px;
+			float: right; 
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
+		.image {
+			background-color: #FFFFEB;
+		}
+		.section-background-right{
+			background-color: #FFFFEB;
+			border-radius: 250px;
+			margin: 20px;
+			float: right;
+			width: 89%;
+			padding: 20px;
+			
+		}
+		.section-background-left {
+			background-color: #FFFFEB;
+			border-radius: 250px;
+			width: 89%;
+			margin: 20px;
+			float: left;
+			padding: 20px;
+			
+		}
